@@ -24,14 +24,13 @@ Create a **Google Sheet** named **"Event Scheduler"**, structured as follows:
 
 ## 📅 How to Set Up the Script
 
-1. Create a Google Sheet named “Event Scheduler” and add the sample data.
+1. Create a Google Sheet.
 2. Open Google Sheets and create a sheet named “Event Scheduler” with the columns above.
 3. Open Apps Script Editor (Extensions → Apps Script).
-4. Copy and paste the code.gs script.
+4. Copy and paste the scheduleEvent.gs script.
 5. Click Run → Select scheduleEvents.
 6. Authorize the script when prompted.
 7. Check Google Calendar to see scheduled events. 
-8. Run the script to schedule events.
 
 ## 📜 Script Code (`scheduleEvent.gs`)  
 
